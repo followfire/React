@@ -3,3 +3,21 @@
     background-position: 50% -355px;
     height: 115px;
 }
+
+.main-content-download-download a:hover{
+    background-color: rgba(255,255,255,.1);
+}
+.center-text{
+    display: flex;
+    height: 100%;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.center-text h2{
+    color:#fff;
+    text-shadow: #194c50 1px 2px 8px
+}
+.center-text p{
+    color:#1d997e;
+}

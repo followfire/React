@@ -5,3 +5,6 @@
   border:1px solid #c9c9c9;
   background: url(./img/ost-bg.png);
 }
+.container{
+  background:#e6ecea url(./img/bg.jpg) no-repeat 40% 0;
+}

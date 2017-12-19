@@ -1,0 +1,29 @@
+.main-content-download-item{
+    background: #199d80;
+}
+.main-content-download-item:hover{
+    background-color: #2d8672;
+}
+.main-content-download-item div{
+    display: flex;
+    justify-content: center;
+    height: 61px;
+    line-height: 61px;
+    color: #fff;
+    margin: 0 15px;
+   
+}
+.main-content-download-item:not(:last-child) div{
+    border-bottom: 1px solid #26ae90;
+}
+.main-content-download-item i{
+    font-family: 'homeicon';
+    color: #8bcebf;
+    font-size: 28px;
+    font-style: normal;
+    margin-right: 15px;
+}
+@font-face {
+    font-family:'homeicon' ;
+    src: url('../../fonts/homeicon.woff');
+}

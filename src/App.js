@@ -10,7 +10,7 @@ class App extends Component {
         <header className='header'>
           <OstBox/>
         </header>
-        <section>
+        <section className='container'>
           <Main/>
         </section>
       </div>
