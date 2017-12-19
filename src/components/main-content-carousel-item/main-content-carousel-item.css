@@ -1,0 +1,11 @@
+.main-content-carousel-item{
+    flex:1;
+    color:#979696;
+    text-align: center;
+    line-height:36px;
+}
+
+.active{
+    color:#fff;
+    background: #2fc3a3;
+}

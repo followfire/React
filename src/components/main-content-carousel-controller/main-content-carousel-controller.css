@@ -1,0 +1,9 @@
+.main-content-carousel-controller{
+    display: flex;
+    position: absolute;
+    bottom:0;
+    width: 100%;
+    background: rgba(56,56,56,.9);
+    font-size: 12px;
+    cursor: default;
+}
