@@ -1,0 +1,10 @@
+.main-head-linklist-item{
+    /* display: block; */
+    font-size: 13px;
+    color: #525252;
+    text-decoration: none;
+    line-height: 21px;
+}
+.main-head-linklist-item:hover{
+    color:#01b8a9;
+}

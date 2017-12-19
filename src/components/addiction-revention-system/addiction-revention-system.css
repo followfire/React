@@ -1,0 +1,11 @@
+.addiction-revention-system{
+    width: 118px;
+    box-sizing: border-box;
+    float: left;
+    padding-left: 20px;
+    background: url(./img/logo.png) no-repeat 0 12px;
+    color: #464646;
+}
+.addiction-revention-system:hover{
+    color:#ff4e00
+}

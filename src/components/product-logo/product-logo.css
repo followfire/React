@@ -1,0 +1,7 @@
+.product-logo{
+    width: 191px;
+    height:67px;
+    position: absolute;
+    top:28px;
+    background: url(../../img/nav-copy.png) no-repeat;
+}

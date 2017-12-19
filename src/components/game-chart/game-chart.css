@@ -1,0 +1,17 @@
+.game-chart{
+    float: left;
+    justify-content: space-between;
+}
+.game-chart:hover{
+    color: #ff4e00
+}
+.game-chart span{
+    margin-right: 5px;
+}
+.game-chart:hover .game-chart-bg{
+    background-position: -170px -132px;
+}
+.game-chart-bg{
+    background: url(../../img/ost-bg.png) no-repeat -150px -132px;
+    padding-right: 11px;
+}

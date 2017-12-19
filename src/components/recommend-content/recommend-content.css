@@ -1,0 +1,8 @@
+.recommend-content{
+    display: block;
+    position: absolute;
+    background: #fff;
+    top:0;
+    padding: 0 5px 3px;
+    z-index: 10;
+}

@@ -1,0 +1,7 @@
+.recommond{
+    background: url(../../img/rec.jpg) no-repeat 0 0;
+    display: block;
+    height: 40px;
+    width: 230px;
+    float: left;
+}

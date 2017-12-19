@@ -1,0 +1,11 @@
+.logo{
+    background: url(../../img/ost-bg.png) no-repeat 0 -40px;
+    display: block;
+    position: relative;
+    z-index: 1000;
+    height: 40px;
+    width: 205px;
+    float: left;
+    padding-right: 14px;
+   
+}

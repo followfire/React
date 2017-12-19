@@ -1,0 +1,7 @@
+.header {
+  position: absolute;
+  width: 100%;
+  top: 0 !important;
+  border:1px solid #c9c9c9;
+  background: url(./img/ost-bg.png);
+}
