@@ -1,0 +1,11 @@
+.main-week-recommend-newserver{
+    padding-left: 40px;
+    color:#3a3a3a;
+    font-size: 14px;
+    background:url(../../img/spr-icon.png) no-repeat -134px 3px;
+}
+
+.main-week-recommend-newserver strong{
+    color:#2fc3a3;
+    font-size: 18px;
+}

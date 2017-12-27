@@ -1,0 +1,14 @@
+.news-box-content{
+    flex-grow: 1;
+    width: 320px;
+    overflow: hidden;
+    position: relative;
+}
+.news-box-content>div{
+    width: 1600px;
+    position: absolute;
+    height: 240px;
+    left: 0;
+    top:0;
+    transition: left .3s ease-out;
+}

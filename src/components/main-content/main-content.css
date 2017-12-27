@@ -1,8 +1,11 @@
 .main-content{
-    display: flex;
+    overflow: hidden;
+}
+.main-content>div{
+    float: left;
 }
 .carousel-container{
     height:300px;
-    flex:7;
+    width:730px;
     margin: 0 10px;
 }

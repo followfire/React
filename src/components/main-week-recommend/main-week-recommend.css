@@ -1,4 +1,15 @@
 .main-week-recommend{
-    flex: 2;
-    
+    width: 265px;
+    background: #fff;
+    box-sizing: border-box;
+    height: 300px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.main-week-recommend div{
+    width:230px;
+    margin:0 auto;
+    box-sizing: border-box;
 }

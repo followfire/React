@@ -1,0 +1,11 @@
+.main-week-recommend-new-version img{
+    border:1px solid transparent;
+    width: 100%;
+    vertical-align: middle;
+}
+.main-week-recommend-new-version:hover img{
+    border-color: rgba(0,0,0,.4);
+}
+.main-week-recommend-new-version{
+    padding:5px 0;
+}

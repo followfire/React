@@ -1,0 +1,32 @@
+.game-career-controller-item{
+    font-family:'homeicon';
+    position: relative;
+    width: 28px;
+    height: 28px;
+}
+.game-career-controller-item span {
+    display: block;
+    width: 16px;
+    height: 16px;
+    border: 1px solid #b9c1c1;
+    transform: rotate(45deg);
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+.game-career-controller-item i{
+    position: absolute;
+    top:5px;
+    left:5px;
+    font-size: 19px;
+    color:#b9c1c1;
+}
+.game-career-controller div.cur span{
+    border-color: #2FC3A2;
+}
+.game-career-controller div.cur i{
+    color:#2FC3A2;
+}
+.game-career-controller-item:hover i{
+    color:#2FC3A2;
+}

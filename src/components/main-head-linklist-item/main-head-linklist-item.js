@@ -3,8 +3,8 @@ import './main-head-linklist-item.css';
 export default class MainHeadLinklistItem extends Component{
     render(){
         return (
-                <div>
-                <a href={this.props.link} className='main-head-linklist-item'>
+                <div className='main-head-linklist-item'>
+                <a href={this.props.link} >
                     {this.props.text}
                 </a>
                 </div>

@@ -1,0 +1,9 @@
+.main-content-2-picnav{
+    width: 185px;
+    overflow:hidden;
+    background: #3a3a3a url(../../img/bg-home2.jpg) no-repeat 0 100%;
+}
+.main-content-2-picnav div{
+    width: 50%;
+    float: left;
+}

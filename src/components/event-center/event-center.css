@@ -1,0 +1,22 @@
+.event-center{
+    width: 360px;
+    height: 300px;
+    box-sizing: border-box;
+}
+.event-center .bottom{
+    height:145px;
+    margin-top: 10px;
+}
+.event-center .bottom div{
+    background:url(../../img/bg-home2.jpg) no-repeat;
+    height:100%;
+    width: 175px;
+    float: left;
+}
+.event-center div.bottom-left{
+    background-position: 100% 0;
+    margin-right: 10px;
+}
+.event-center div.bottom-right{
+    background-position:100% 100%; 
+}

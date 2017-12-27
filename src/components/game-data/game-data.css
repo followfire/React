@@ -1,0 +1,8 @@
+.game-data{
+    width: 265px;
+    height: 300px;
+    margin-left: 10px;
+    background: url(../../img/bg-home2.jpg) no-repeat -186px 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}

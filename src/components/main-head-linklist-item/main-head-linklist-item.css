@@ -1,13 +1,16 @@
 .main-head-linklist-item{
-    display: block;
     font-size: 13px;
     color: #525252;
     text-decoration: none;
     line-height: 21px;
     text-overflow: ellipsis;
-    white-space: nowrap;
     overflow: hidden;
+    white-space: nowrap;
+    height: 21px;
 }
-.main-head-linklist-item:hover{
+.main-head-linklist-item a{
+    color:#525252;
+}
+.main-head-linklist-item a:hover{
     color:#01b8a9;
 }

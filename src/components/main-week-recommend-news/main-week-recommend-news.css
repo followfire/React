@@ -1,0 +1,7 @@
+.main-week-recommend-news{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-grow: 1;
+    padding: 10px 0;
+}

@@ -88,7 +88,7 @@ export default class MainContent extends Component{
                         picList={picList}
                         duration={300}
                         interval={3000}
-                        autoplay={false}
+                        autoplay={true}
                         ctrlList={ctrlList}
                         />
                     </div>

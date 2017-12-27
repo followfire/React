@@ -1,0 +1,50 @@
+.game-career-item{
+    /* width: 150px; */
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.game-career-item .career{
+    color: #2fc3a2;
+    font-size: 38px;
+    margin: 10px 0 10px;
+}
+.game-career-item .desc{
+    margin-bottom: 10px;
+}
+
+.game-career-item .btn-success{
+    float: left;
+}
+.game-career-item .btn-default{
+    float: left;
+    margin-left: 10px;
+}
+.game-career-item .hard{
+    margin:10px 0 0px;
+}
+.game-career-item .star-container{
+    overflow: hidden;
+    padding-top: 5px;
+    height: 20px;
+}
+.game-career-item .btn-group{
+    overflow: hidden;
+    margin-top:5px;
+}
+.game-career-item .intro{
+    position: absolute;
+    width: 150px;
+    left:-200px;
+    top:0;
+    transition: left .36s ease-out; 
+}
+.game-career-item .charactor{
+    position: absolute;
+    width: 150px;
+    height: 100%;
+    right: -150px;
+    top:0;
+    
+    transition: right .36s ease-out; 
+}
