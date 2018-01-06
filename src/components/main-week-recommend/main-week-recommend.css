@@ -3,10 +3,7 @@
     background: #fff;
     box-sizing: border-box;
     height: 300px;
-    padding: 25px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    padding: 10px;
 }
 .main-week-recommend div{
     width:230px;
