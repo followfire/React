@@ -15,10 +15,28 @@ export default class Template extends Component{
                 <div className='bottom'>
                     <a href=''>
                         <div className='bottom-left'>
+                            <h2>
+                                游戏特色
+                            </h2>
+                            <p>
+                                江湖那么大
+                            </p>
+                            <p>
+                                何处不天涯
+                            </p>
                         </div>
                     </a>
                     <a href=''>
                         <div className='bottom-right'>
+                            <h2>
+                                设定站
+                            </h2>
+                            <p>
+                                天下盟会
+                            </p>
+                            <p>
+                                八荒剑秀
+                            </p>
                         </div>
                     </a>
                 </div>

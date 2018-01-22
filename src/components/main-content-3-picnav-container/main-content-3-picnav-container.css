@@ -1,0 +1,12 @@
+.main-content-3-picnav-container{
+    width: 265px;
+    overflow:hidden;
+    color:#fff;
+}
+.main-content-3-picnav-container .main-content-3-picnav-item{
+    width: calc(50% - 5px);
+    float: left;
+}
+.main-content-3-picnav-container .main-content-3-picnav-item:last-child{
+    margin-left: 10px;
+}
