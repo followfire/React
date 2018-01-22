@@ -1,0 +1,7 @@
+:local(.tongren){
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 730px;
+    position: relative;
+    overflow: hidden;
+}

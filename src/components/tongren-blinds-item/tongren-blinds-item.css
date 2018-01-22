@@ -1,0 +1,9 @@
+:local(.container){
+    width: 500px;
+    transition: left .1s linear;
+}
+:local(.controller){
+    background: url(../../img/fanstab.jpg) no-repeat;
+    background-size: cover;
+    cursor: pointer;
+}
