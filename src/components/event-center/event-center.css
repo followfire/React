@@ -12,11 +12,24 @@
     height:100%;
     width: 175px;
     float: left;
+    box-sizing: border-box;
+    
 }
 .event-center div.bottom-left{
-    background-position: 100% 0;
+    background-position: 99% 0;
     margin-right: 10px;
+    padding:15px;
 }
 .event-center div.bottom-right{
-    background-position:100% 100%; 
+    background-position:99% 100%; 
+    padding:15px;
+}
+.event-center h2{
+    color:#cfae69;
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+.event-center p{
+    color:#777676;
+    font-size: 12px;
 }

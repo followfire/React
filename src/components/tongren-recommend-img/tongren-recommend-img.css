@@ -1,0 +1,9 @@
+:local(.imgContainer){
+    margin-top: 10px;
+}
+:local(.imgContainer) img{
+    width: 155px;
+}
+:local(.imgContainer) a:last-child img{
+    margin-left: 10px;
+}
