@@ -1,0 +1,18 @@
+.banners-item{
+    width: calc(25% - 40px/4);
+    height: 100%;
+    float: left;
+    margin-left: 10px;
+}
+.banners-item a{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.banners-item a:hover{
+    opacity: .9;
+}
+.banners-item img{
+    width: 100%;
+    height: 100%;
+}
