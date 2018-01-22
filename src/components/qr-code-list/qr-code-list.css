@@ -1,0 +1,8 @@
+.qr-code-list{
+   width: 110px;
+   margin: 10px auto;
+}
+.qr-code-list img{
+    width: 100%;
+    height: 100%;
+}

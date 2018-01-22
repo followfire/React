@@ -3,4 +3,6 @@
     height: 135px;
     float: left;
     margin-top: 10px;
+}.banners .banners-item:last-child{
+    width: 265px;
 }

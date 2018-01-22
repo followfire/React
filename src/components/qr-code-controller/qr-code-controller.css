@@ -1,0 +1,18 @@
+.qr-code-controller{
+    text-align: center;
+}
+.qr-code-controller span{
+    color: #9c9c9c;
+    cursor: pointer;
+}
+.qr-code-controller div{
+    display: inline-block;
+}
+.qr-code-controller div:not(:last-child)::after{
+    content: "|";
+    margin: 0 5px;
+}
+.qr-code-controller span.active{
+    background: transparent;
+    color: white;
+}

@@ -1,0 +1,15 @@
+.partners{
+    margin: 20px  auto;
+    width: 110px;
+}
+.partners img{
+    margin-top: 20px;
+    margin-left: 5px;
+    width: 30px;
+    border-radius: 50%;
+    background: rgba(95,95,95,.5);
+    opacity: .5;
+}
+.partners img:hover{
+    opacity: 1;
+}
